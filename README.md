@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anubis-Kajin
 - 👀 I’m interested in web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning la programmation
+- 💞️ I’m looking to collaborate on sur des projets
 - 📫 How to reach me ...
 
 <!---
